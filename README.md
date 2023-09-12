@@ -1,5 +1,5 @@
 # 😎 Adrielly de Oliveira (Lelly)
-🧠 Atualmente estou trabalhando em Academia da Neurociência<br>🌱 Aperfeiçoando Laravel Framewok, Desenvolvimento de Plugin Wordpress<br>👨‍💻 Meus Projetos de UX https://www.behance.net/iamlelly/
+🧠 Atualmente estou trabalhando no plugin da [Academia da Neurociência](https://github.com/lellyoliver/academiadaneuro)<br>🌱 Aperfeiçoando Laravel Framewok, Desenvolvimento de Plugin Wordpress<br>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/lellyoliver) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamlelly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lellyoliver) 
 
