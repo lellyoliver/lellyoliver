@@ -7,9 +7,7 @@
 # ⚡ Alguns Projetos Já Finalizados
 - [Donatário](https://donatario.com.br/)
 - [Capilé](https://restaurantecapile.com.br/)
-- [Livan](https://livan.com.br/)
 - [Mercês Climatização](https://mercesclimatizacao.com.br/a-merces/)
-- [Belago](https://belago.com/pentest/)
 - [APP WEB - Academia da Neurociência](https://app.academiadaneurociencia.com.br/)
 - [BHF](https://bhf.com.br/)
 
