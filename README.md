@@ -7,7 +7,7 @@
 # ⚡ Alguns Projetos Já Finalizados
 - [Donatário](https://donatario.com.br/)
 - [Capilé](https://restaurantecapile.com.br/)
-- [Mercês Climatização](https://mercesclimatizacao.com.br/a-merces/)
+- [Mercês Climatização - Institucional](https://mercesclimatizacao.com.br/a-merces/) | [Mercês Climatização - LP](https://mercesclimatizacao.com.br/manutencao-de-ar-condicionado-empresarial/)
 - [APP WEB - Academia da Neurociência](https://app.academiadaneurociencia.com.br/)
 - [BHF](https://bhf.com.br/)
 
