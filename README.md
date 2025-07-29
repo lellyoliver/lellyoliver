@@ -1,8 +1,9 @@
 # Adrielly de Oliveira (Lelly)
-🧠 Atualmente estou trabalhando no plugin da Refatorando<br>
-🌱 Aperfeiçoando em Desenvolvimento de Plugin para Wordpress<br>
-🧠 Desenvolvimento de Melhorias em Plataforma de Ensino com Wordpress 
-⚡ Atualmente em desenvolvimento de uma plataforma de imobiliária do zero 
+⚡ Atualmente estou trabalhando no plugin da Refatorando<br>
+⚡ Em desenvolvimento de uma plataforma de imobiliária do zero<br>
+🌱 Aperfeiçoando em Laravel<br>
+🧠 Desenvolvimento de Melhorias em Plataforma de Ensino com Wordpress
+
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/iamlelly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lellyoliver) 
 
