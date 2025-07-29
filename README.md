@@ -1,10 +1,12 @@
-# 😎 Adrielly de Oliveira (Lelly)
-🧠 Atualmente estou trabalhando no plugin da Refatorando<br>🌱 Aperfeiçoando Laravel Framewok, Desenvolvimento de Plugin Wordpress<br>
+# Adrielly de Oliveira (Lelly)
+🧠 Atualmente estou trabalhando no plugin da Refatorando<br>
+🌱 Aperfeiçoando em Desenvolvimento de Plugin para Wordpress<br>
 🧠 Desenvolvimento de Melhorias em Plataforma de Ensino com Wordpress 
+⚡ Atualmente em desenvolvimento de uma plataforma de imobiliária do zero 
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/iamlelly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lellyoliver) 
 
-# ⚡ Alguns Projetos Já Finalizados
+# Alguns Projetos Já Finalizados
 - [Donatário](https://donatario.com.br/)
 - [Capilé](https://restaurantecapile.com.br/)
 - [Mercês Climatização - Institucional](https://mercesclimatizacao.com.br/a-merces/) | [Mercês Climatização - LP](https://mercesclimatizacao.com.br/manutencao-de-ar-condicionado-empresarial/)
