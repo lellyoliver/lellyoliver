@@ -1,8 +1,6 @@
 # Adrielly de Oliveira (Lelly)
-⚡ Atualmente estou trabalhando no plugin da Refatorando<br>
 ⚡ Em desenvolvimento de uma plataforma de imobiliária do zero<br>
 🌱 Aperfeiçoando em Laravel<br>
-🧠 Desenvolvimento de Melhorias em Plataforma de Ensino com Wordpress
 
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/iamlelly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lellyoliver) 
@@ -11,7 +9,6 @@
 - [Donatário](https://donatario.com.br/)
 - [Capilé](https://restaurantecapile.com.br/)
 - [Mercês Climatização - Institucional](https://mercesclimatizacao.com.br/a-merces/) | [Mercês Climatização - LP](https://mercesclimatizacao.com.br/manutencao-de-ar-condicionado-empresarial/)
-- [APP WEB - Academia da Neurociência](https://app.academiadaneurociencia.com.br/)
 - [BHF](https://bhf.com.br/)
 
 
