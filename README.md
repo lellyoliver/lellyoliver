@@ -9,7 +9,6 @@
 - [Donatário](https://donatario.com.br/)
 - [Capilé](https://restaurantecapile.com.br/)
 - [Mercês Climatização - Institucional](https://mercesclimatizacao.com.br/a-merces/) | [Mercês Climatização - LP](https://mercesclimatizacao.com.br/manutencao-de-ar-condicionado-empresarial/)
-- [BHF](https://bhf.com.br/)
 
 
 # 💻 Tech Stacks:
